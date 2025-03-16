@@ -1,6 +1,6 @@
 # 🚀 Major Project Portfolio  
 
-This repository showcases four **data science and machine learning projects**, each addressing different real-world challenges. The projects involve data preprocessing, model building, evaluation, and visualization.  
+This repository showcases **data science and machine learning projects**, each addressing different real-world challenges. The projects involve data preprocessing, model building, evaluation, and visualization.  
 
 ---
 
