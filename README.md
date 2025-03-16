@@ -73,7 +73,7 @@ A **Linear Regression** model is used to predict **health insurance costs** base
 This project utilizes **Natural Language Processing (NLP)** and **Support Vector Machine (SVM)** to classify the sentiment of tweets into **positive, negative, or neutral**. The model helps analyze public sentiment around various topics discussed on Twitter.  
 
 **Key Steps:**  
-- Data Collection using the **Twitter API**  
+- Data Collection using the **kaggle**  
 - Text Preprocessing (cleaning and stemming)  
 - Vectorization using **TF-IDF**  
 - Splitting data into train-test sets  
